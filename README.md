@@ -1,3 +1,3 @@
-# NSDistributedNotificationCenter
+# DistributedNotificationCenter
 
-A description of this package.
+Make `DistributedNotificationCenter` available on iOS.
