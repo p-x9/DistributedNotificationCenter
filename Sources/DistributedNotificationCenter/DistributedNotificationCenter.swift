@@ -1,0 +1,3 @@
+import DistributedNotificationCenterObjc
+
+public typealias DistributedNotificationCenter = NSDistributedNotificationCenter
